@@ -3,7 +3,9 @@ Hi there! 👋
 I'm an aspiring ML Engineer, learning Python, SQL, and Machine Learning.
 
 🔭 Currently working on: Titanic Survival Prediction project
+
 🌱 Learning: Machine Learning & Data Science
+
 📫 Reach me: tripti8890@gmail.com
 <!--
 **Triptisharma-irl/Triptisharma-irl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
